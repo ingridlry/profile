@@ -89,15 +89,15 @@ a:hover {
 }
 
 #sidebar {
-  margin: 1.9%;
+  margin: 2.2%;
   position: fixed;
-  width: 300px;
+  width: 180px;
   left: 0;
   top: 0;
   bottom: 0;
 }
 #page-content {
-  margin-left: 300px;
+  margin-left: 180px;
 }
 
 #socialnetwork {
